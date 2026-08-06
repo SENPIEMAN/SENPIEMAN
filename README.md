@@ -1,4 +1,72 @@
-## Hi there 👋
+# Hi, I'm Senpie 👋
+
+I'm a developer who enjoys building things, learning new technologies, and figuring out how everything fits together.
+
+Most of my projects revolve around modern web development, backend services, and infrastructure. I enjoy taking ideas from a blank repository to something people can actually use.
+
+## 🚀 Currently Exploring
+
+* TypeScript
+* FastAPI
+* Cloudflare Workers & R2
+* APIs & backend architecture
+* Analytics systems
+* Modern web tooling
+
+## 🛠️ Technologies
+
+### Languages
+
+* TypeScript
+* JavaScript
+* Python
+* HTML
+* SCSS / CSS
+* Liquid
+* SQL
+
+### Frameworks & Tools
+
+* FastAPI
+* Node.js
+* Cloudflare Workers
+* Cloudflare R2
+* Git
+* GitHub
+* SQLite
+
+## 📚 Philosophy
+
+I like understanding *why* something works rather than simply copying solutions.
+
+Most repositories here are experiments, learning projects, or tools built to solve real problems. They're a record of continuous improvement as much as they are finished software.
+
+## 🌱 Current Focus
+
+* Building better backend services
+* Learning cloud infrastructure
+* Creating clean developer experiences
+* Writing maintainable, well-documented code
+
+## 📂 Featured Projects
+
+You'll find repositories covering topics such as:
+
+* Web applications
+* APIs
+* Developer tooling
+* Website experiments
+* Infrastructure & deployment
+* Personal learning projects
+
+## 🤝 Open Source
+
+I'm always interested in learning from other developers and improving my own code. Suggestions, discussions, and constructive feedback are always welcome.
+
+---
+
+> *"The best way to learn is to build."*
+
 
 <!--
 According to all known laws of aviation, there is no way a bee should be able to fly.
