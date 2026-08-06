@@ -1,4 +1,5 @@
-# Hi, I'm Senpie 👋
+# Hi, I'm Simon 👋
+> AKA Senpie or Pieman
 
 I'm a developer who enjoys building things, learning new technologies, and figuring out how everything fits together.
 
