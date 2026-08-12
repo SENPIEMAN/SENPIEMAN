@@ -16,15 +16,15 @@ Most of my projects revolve around modern web development, backend services, and
 
 ## 🛠️ Technologies
 
-| Languages | Frameworks & Tools |
-|:---------:|:------------------:|
-| TypeScript | FastAPI |
-| JavaScript | Node.js |
-| Python | Cloudflare Workers |
-| HTML | Cloudflare R2 |
-| SCSS / CSS | Git |
-| Liquid | GitHub 	|
-| SQL  | SQLite|
+| Languages | | Frameworks & Tools |
+|:---------:|:-----: | :----------:|
+| TypeScript | | FastAPI |
+| JavaScript | | Node.js |
+| Python |  |  Cloudflare Workers |
+| HTML |  | Cloudflare R2 |
+| SCSS / CSS  | | Git |
+| Liquid | | GitHub 	|
+| SQL  | | SQLite|
 
 ## 📚 Philosophy
 
