@@ -50,6 +50,7 @@ You'll find repositories covering topics such as:
 * Infrastructure & deployment
 * Personal learning projects
 
+I also write the [documentation](https://docs.casterlabs.co/) for [Casterlabs](https://github.com/Casterlabs)
 ## 🤝 Open Source
 
 I'm always interested in learning from other developers and improving my own code. Suggestions, discussions, and constructive feedback are always welcome.
