@@ -54,11 +54,6 @@ You'll find repositories covering topics such as:
 
 I'm always interested in learning from other developers and improving my own code. Suggestions, discussions, and constructive feedback are always welcome.
 
----
-
-> *"The best way to learn is to build."*
-
-
 <!--
 According to all known laws of aviation, there is no way a bee should be able to fly.
 Its wings are too small to get its fat little body off the ground.
