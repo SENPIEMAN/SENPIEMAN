@@ -1,59 +1,52 @@
 # Hi, I'm Simon 👋
+
 > AKA Senpie or Pieman
 
-I'm a developer who enjoys building things, learning new technologies, and figuring out how everything fits together.
+I'm a developer who likes building things, breaking things, and then figuring out *why* they broke.
 
-Most of my projects revolve around modern web development, backend services, and infrastructure. I enjoy taking ideas from a blank repository to something people can actually use.
+My work spans web applications, backend services, APIs, infrastructure, and developer tooling. I enjoy taking an idea from a blank repository through the awkward middle where nothing quite works, to something people can actually use.
 
-## 🚀 Currently Exploring
+## 🔧 What I'm Working On
 
-* TypeScript
-* FastAPI
-* Cloudflare Workers & R2
-* APIs & backend architecture
-* Analytics systems
-* Modern web tooling
+### Ctrl Alt Doc (CAD)
+
+My main project is **Ctrl Alt Doc**, a documentation platform I've been building across the full stack.
+
+CAD has grown into much more than the project I originally set out to build. It's become a practical way for me to explore application architecture, TypeScript, Svelte, backend development, APIs, authentication, data storage, deployment, and all the unpleasant edge cases that only appear once software becomes real.
+
+More importantly, it's taught me how the different pieces of a modern application actually fit together.
+
+Alongside CAD, I maintain and experiment with smaller projects covering APIs, automation, infrastructure, bots, and whatever else has caught my attention.
 
 ## 🛠️ Technologies
 
-| Languages | | Frameworks & Tools |
-|:---------:|:-----: | :----------:|
-| TypeScript | | FastAPI |
-| JavaScript | | Node.js |
-| Python |  |  Cloudflare Workers |
-| HTML |  | Cloudflare R2 |
-| SCSS / CSS  | | Git |
-| Liquid | | GitHub 	|
-| SQL  | | SQLite|
+| Languages  | Frameworks, Platforms & Tools |
+| :--------- | :---------------------------- |
+| TypeScript | Svelte                        |
+| JavaScript | Node.js                       |
+| Python     | FastAPI                       |
+| HTML       | Cloudflare Workers            |
+| SCSS / CSS | Cloudflare R2                 |
+| SQL        | SQLite                        |
+| Liquid     | Git & GitHub                  |
 
-## 📚 Philosophy
+I'm less interested in collecting technologies for a list than I am in understanding when and why they're useful.
 
-I like understanding *why* something works rather than simply copying solutions.
+## 🧠 How I Learn
 
-Most repositories here are experiments, learning projects, or tools built to solve real problems. They're a record of continuous improvement as much as they are finished software.
+I like understanding **why something works**, rather than simply copying a solution until the error goes away.
 
-## 🌱 Current Focus
+That means a lot of my repositories are both software and a record of the process behind learning how to build it better.
 
-* Building better backend services
-* Learning cloud infrastructure
-* Creating clean developer experiences
-* Writing maintainable, well-documented code
+I'll happily use documentation, debugging tools, AI, Stack Overflow, questionable experiments and excessive amounts of logging to get somewhere — but I want to come out the other side understanding more than I did when I started.
 
-## 📂 Featured Projects
+## 📚 Documentation & Open Source
 
-You'll find repositories covering topics such as:
+I also write and maintain documentation for [Casterlabs](https://github.com/Casterlabs), available at [docs.casterlabs.co](https://docs.casterlabs.co/).
 
-* Web applications
-* APIs
-* Developer tooling
-* Website experiments
-* Infrastructure & deployment
-* Personal learning projects
+I'm always interested in constructive feedback, better approaches, and learning from people who know something I don't.
 
-I also write the [documentation](https://docs.casterlabs.co/) for [Casterlabs](https://github.com/Casterlabs)
-## 🤝 Open Source
-
-I'm always interested in learning from other developers and improving my own code. Suggestions, discussions, and constructive feedback are always welcome.
+If you find something I've built useful, broken, interesting, or completely baffling, feel free to open an issue or start a discussion.
 
 <!--
 According to all known laws of aviation, there is no way a bee should be able to fly.
